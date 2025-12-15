@@ -1,0 +1,3 @@
+spring:
+  application.name: hypersistence-utils-bug
+  docker.compose.skip.in-tests: false
